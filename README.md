@@ -17,7 +17,7 @@ To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotid
 ## Front end
 - Python / Framework Flet
 ## Framework
-- Flet (para a criação da interface grafica e layout do App)
+- Flet (Para a criação da interface grafica e layout do App)
 ## Banco de dados
 - SQLite3
 
