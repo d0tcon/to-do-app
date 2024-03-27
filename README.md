@@ -3,8 +3,8 @@
 
 # Sobre o projeto
 
-### Download do Aplicativo
-[Download](https://github.com/d0tcon/to-do-app/raw/main/Gerenciador%20de%20tarefas.exe)
+#### Download do Aplicativo
+[Baixe aqui](https://github.com/d0tcon/to-do-app/raw/main/Gerenciador%20de%20tarefas.exe)
 
 To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotidiano, tendo uma aba com todas as suas tarefas, uma aba de tarefas em andamento e uma aba com tarefas concluídas.
 
