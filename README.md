@@ -1,10 +1,10 @@
 # To Do App
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/d0tcon/to-do-app/blob/main/LICENSE) 
 
-# Sobre o projeto
-
 #### Download do Aplicativo
 [Baixe aqui](https://github.com/d0tcon/to-do-app/raw/main/Gerenciador%20de%20tarefas.exe)
+
+# Sobre o projeto
 
 To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotidiano, tendo uma aba com todas as suas tarefas, uma aba de tarefas em andamento e uma aba com tarefas concluídas.
 
