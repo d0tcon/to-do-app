@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 ### Download do Aplicativo
-![download](https://github.com/d0tcon/to-do-app/raw/main/Gerenciador%20de%20tarefas.exe)
+![download](http://www.w3.org/2000/svg)(https://github.com/d0tcon/to-do-app/raw/main/Gerenciador%20de%20tarefas.exe)
 
 To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotidiano, tendo uma aba com todas as suas tarefas, uma aba de tarefas em andamento e uma aba com tarefas concluídas.
 
@@ -15,9 +15,9 @@ To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotid
 ## Back end
 - Python
 ## Front end
-- Python framework Flet
+- Python / Framework Flet
 ## Framework
-- Flet (para a interface grafica e layout do App)
+- Flet (para a criação da interface grafica e layout do App)
 ## Banco de dados
 - SQLite3
 
@@ -30,7 +30,8 @@ To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotid
 
 - Use-o a vontade, seus dados ficam todos salvos e é bem intuitivo e simples de usar.
 
-- Caso queria apagar as tarefas que você digitou e ficaram salvas e queira colocar novas tarefas, basta apagar o arquivo .db para criar um novo do 0 ao abrir o App novamente.
+- Caso queria apagar as tarefas que você digitou e ficaram salvas e queira colocar novas tarefas,
+basta apagar o arquivo .db para criar um novo do 0 ao abrir o App novamente.
 ```
 
 # Autor
