@@ -31,7 +31,7 @@ To Do App é um aplicativo feito em python para gerenciador tarefas de seu cotid
 - Use-o a vontade, seus dados ficam todos salvos e é bem intuitivo e simples de usar.
 
 - Caso queria apagar as tarefas que você digitou e ficaram salvas e queira colocar novas tarefas,
-basta apagar o arquivo .db para criar um novo do 0 ao abrir o App novamente.
+basta apagar o arquivo .db para criar um novo ao abrir o App novamente.
 ```
 
 # Autor
